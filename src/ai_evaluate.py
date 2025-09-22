@@ -5,7 +5,7 @@ import os
 import time
 from tqdm import tqdm
 
-client = OpenAI(api_key="sk-Tzl7S6MbyI380FMC_eIsLQ",
+client = OpenAI(api_key="enter your api key here",
                 base_url="https://llmproxy.stepsai.co/")
 
 
